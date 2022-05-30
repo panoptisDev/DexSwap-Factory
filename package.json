@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Agin-DropDisco/dexs-factory.git"
+    "url": "git+https://github.com/zonulet-io/DexSwap-Factory.git"
   },
   "engines": {
     "node": ">=10"
@@ -55,9 +55,9 @@
   },
   "description": "",
   "bugs": {
-    "url": "https://github.com/Agin-DropDisco/dexs-factory/issues"
+    "url": "https://github.com/zonulet-io/DexSwap-Factory/issues"
   },
-  "homepage": "https://github.com/Agin-DropDisco/dexs-factory#readme",
+  "homepage": "https://github.com/zonulet-io/DexSwap-Factory#readme",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
